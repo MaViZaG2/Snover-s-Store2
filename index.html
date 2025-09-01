@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snover's Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌸 Snover's Store 🌸</h1>
+    <div class="filters">
+      <button onclick="filtrarProductos('todos')">Todos</button>
+      <button onclick="filtrarProductos('figura')">Figuras</button>
+      <button onclick="filtrarProductos('ropa')">Ropa</button>
+      <button onclick="filtrarProductos('accesorio')">Accesorios</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="productos" class="productos"></div>
+  </main>
+
+  <div id="detalle" class="detalle"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
