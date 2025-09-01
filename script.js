@@ -21,7 +21,7 @@ productos.push(
     categoria: "ropa",
     precio: 30,
     descripcion: "Billetera grande de la serie animada Un Show Más",
-    imagen: "https://i.postimg.cc/zv5TvFjp/IMG-20250826-WA0124.jpg"
+    imagen: "https://i.postimg.cc/gkqy1jp8/Billetera-un-show-mas.jpg"
   },
 );
 
