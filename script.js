@@ -17,26 +17,11 @@ productos.push(
     imagen: "https://i.postimg.cc/zv5TvFjp/IMG-20250826-WA0124.jpg"
   },
   {
-    nombre: "Collar de Inuyasha",
-    categoria: "accesorio",
-    precio: 45,
-    descripcion: "Collar perla espiritual como el de Inuyasha. ¡Kawaii y con estilo retro anime!",
-    imagen: "https://i.imgur.com/x8h2D8g.jpeg"
-    
-  },
-  {
-    nombre: "Peluche de mimikyu",
-    categoria: "peluche",
-    precio: 20,
-    descripcion: "Figura detallada de Goku en Super Saiyajin. ¡Nivel de poder over 9000!",
-    imagen: "https://i.imgur.com/nZ1Qh1o.jpeg"
-  },
-    {
-    nombre: "polo de naruto",
-    categoria: "figura",
-    precio: 120,
-    descripcion: "Figura detallada de Goku en Super Saiyajin. ¡Nivel de poder over 9000!",
-    imagen: "https://i.imgur.com/nZ1Qh1o.jpeg"
+    nombre: "Billetera de Un Show Más",
+    categoria: "ropa",
+    precio: 30,
+    descripcion: "Billetera grande de la serie animada Un Show Más",
+    imagen: "https://i.postimg.cc/zv5TvFjp/IMG-20250826-WA0124.jpg"
   },
 );
 
