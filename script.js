@@ -14,7 +14,7 @@ productos.push(
     categoria: "ropa",
     precio: 18,
     descripcion: "Monedero de rana del anime Naruto y Naruto Shippuden",
-    imagen: "https://mavizag2.github.io/Snover-s-Store/fotosxd/monedero_rana"
+    imagen: "https://i.postimg.cc/zv5TvFjp/IMG-20250826-WA0124.jpg"
   },
   {
     nombre: "Collar de Inuyasha",
