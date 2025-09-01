@@ -4,7 +4,7 @@ let productos = [];
 productos.push(
   {
     nombre: "Peluche de Mimikyu",
-    categoria: "peluche",
+    categoria: "peluches",
     precio: 20,
     descripcion: "Peluche de Mimikyu de 15cm de alto",
     imagen: "https://i.postimg.cc/ZnTy4KbM/IMG-20250831-WA0206.jpg"
@@ -25,21 +25,21 @@ productos.push(
   },
   {
     nombre: "Armable de Riolu",
-    categoria: "juguete",
+    categoria: "juguetes",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon bebé Riolu",
     imagen: "https://i.postimg.cc/j5yzRFzL/Imagen-de-Whats-App-2025-08-31-a-las-19-11-21-42541eec.jpg"
   },
   {
     nombre: "Armable de eevee",
-    categoria: "juguete",
+    categoria: "juguetes",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon evolución eevee",
     imagen: "https://i.postimg.cc/7PMgcjHR/IMG-20250830-WA0455.jpg"
   },
   {
     nombre: "Armable de Sprigatito",
-    categoria: "juguete",
+    categoria: "juguetes",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon inicial tipo plante de Palde Sprigatito",
     imagen: "https://i.postimg.cc/Qx8prSVd/IMG-20250830-WA0456.jpg"
