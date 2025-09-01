@@ -3,11 +3,11 @@ let productos = [];
 // Agregamos productos con push
 productos.push(
   {
-    nombre: "Figura de Goku SSJ",
+    nombre: "Peluche de Mimikyu",
     categoria: "figura",
     precio: 120,
-    descripcion: "Figura detallada de Goku en Super Saiyajin. ¡Nivel de poder over 9000!",
-    imagen: "https://postimg.cc/S2NXrV1h"
+    descripcion: "Peluche de Mimikyu de 15cm de alto",
+    imagen: "https://i.postimg.cc/ZnTy4KbM/IMG-20250831-WA0206.jpg"
   },
   {
     nombre: "Monedero de rana",
