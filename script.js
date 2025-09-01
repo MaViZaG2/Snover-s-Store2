@@ -5,7 +5,7 @@ productos.push(
   {
     nombre: "Peluche de Mimikyu",
     categoria: "figura",
-    precio: 120,
+    precio: 20,
     descripcion: "Peluche de Mimikyu de 15cm de alto",
     imagen: "https://i.postimg.cc/ZnTy4KbM/IMG-20250831-WA0206.jpg"
   },
@@ -23,6 +23,29 @@ productos.push(
     descripcion: "Billetera grande de la serie animada Un Show Más",
     imagen: "https://i.postimg.cc/gkqy1jp8/Billetera-un-show-mas.jpg"
   },
+  {
+    nombre: "Armable de Riolu",
+    categoria: "ropa",
+    precio: 30,
+    descripcion: "Juguete de armable del Pokémon bebé Riolu",
+    imagen: "https://i.postimg.cc/j5yzRFzL/Imagen-de-Whats-App-2025-08-31-a-las-19-11-21-42541eec.jpg"
+  },
+  {
+    nombre: "Armable de eevee",
+    categoria: "ropa",
+    precio: 30,
+    descripcion: "Juguete de armable del Pokémon evolución eevee",
+    imagen: "https://i.postimg.cc/7PMgcjHR/IMG-20250830-WA0455.jpg"
+  },
+  {
+    nombre: "Armable de Sprigatito",
+    categoria: "ropa",
+    precio: 30,
+    descripcion: "Juguete de armable del Pokémon inicial tipo plante de Palde Sprigatito",
+    imagen: "https://i.postimg.cc/Qx8prSVd/IMG-20250830-WA0456.jpg"
+  },
+  
+
 );
 
 function mostrarProductos(lista) {
