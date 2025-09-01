@@ -4,47 +4,47 @@ let productos = [];
 productos.push(
   {
     nombre: "Peluche de Mimikyu",
-    categoria: "figura",
+    categoria: "peluche",
     precio: 20,
     descripcion: "Peluche de Mimikyu de 15cm de alto",
     imagen: "https://i.postimg.cc/ZnTy4KbM/IMG-20250831-WA0206.jpg"
   },
   {
     nombre: "Monedero de rana",
-    categoria: "ropa",
+    categoria: "accesorio",
     precio: 18,
     descripcion: "Monedero de rana del anime Naruto y Naruto Shippuden",
     imagen: "https://i.postimg.cc/zv5TvFjp/IMG-20250826-WA0124.jpg"
   },
   {
     nombre: "Billetera de Un Show Más",
-    categoria: "ropa",
+    categoria: "accesorio",
     precio: 30,
     descripcion: "Billetera grande de la serie animada Un Show Más",
     imagen: "https://i.postimg.cc/gkqy1jp8/Billetera-un-show-mas.jpg"
   },
   {
     nombre: "Armable de Riolu",
-    categoria: "ropa",
+    categoria: "juguete",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon bebé Riolu",
     imagen: "https://i.postimg.cc/j5yzRFzL/Imagen-de-Whats-App-2025-08-31-a-las-19-11-21-42541eec.jpg"
   },
   {
     nombre: "Armable de eevee",
-    categoria: "ropa",
+    categoria: "juguete",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon evolución eevee",
     imagen: "https://i.postimg.cc/7PMgcjHR/IMG-20250830-WA0455.jpg"
   },
   {
     nombre: "Armable de Sprigatito",
-    categoria: "ropa",
+    categoria: "juguete",
     precio: 30,
     descripcion: "Juguete de armable del Pokémon inicial tipo plante de Palde Sprigatito",
     imagen: "https://i.postimg.cc/Qx8prSVd/IMG-20250830-WA0456.jpg"
   },
-  
+
 
 );
 
