@@ -60,22 +60,22 @@ productos.push(
   },
      {
     nombre: "Booster Bundle de cartas de pokémon 151",
-    categoria: "accesorio",
-    precio: 25,
+    categoria: "cartas",
+    precio: 420,
     descripcion: "Booster Bundle de tarjetas Pokémon expansión 151 de gengar en japonés. Contiene 15 paquetes de 5 sobres cada uno",
     imagen: "https://i.postimg.cc/k50j0RzL/booster-pack-15-sobres.jpg"
   },
      {
     nombre: "Booster pack de cartas pokémon 151",
-    categoria: "accesorio",
-    precio: 25,
+    categoria: "cartas",
+    precio: 32,
     descripcion: "Booster pack de tarjetas Pokémon expansión 151 de gengar en japonés. Contiene 5 cartas cada sobre",
     imagen: "https://i.postimg.cc/jjwg34gz/sobre-individual.jpg"
   },
      {
     nombre: "Medallas pokémon región Kanto (con caja)",
     categoria: "accesorio",
-    precio: 25,
+    precio: 40,
     descripcion: "Caja con 8 pins de las 8 medallas de gimnasio de pokémon de la región de Kanto",
     imagen: "https://i.postimg.cc/vZS2vNzY/medallas-pokemon.jpg"
   },
