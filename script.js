@@ -44,6 +44,20 @@ productos.push(
     descripcion: "Juguete de armable del Pokémon inicial tipo plante de Palde Sprigatito",
     imagen: "https://i.postimg.cc/Qx8prSVd/IMG-20250830-WA0456.jpg"
   },
+    {
+    nombre: "Banda de naruto clasico",
+    categoria: "Accesorio",
+    precio: 25,
+    descripcion: "Banda de genin de la aldea de la hoja del anime Naruto",
+    imagen: "https://i.postimg.cc/ZnVvRt0K/IMG-20250831-WA0204.jpg"
+  },
+   {
+    nombre: "Banda de akatsuki naruto clasico",
+    categoria: "Accesorio",
+    precio: 25,
+    descripcion: "Banda de akatsuki de la aldea de la hoja del anime naruto",
+    imagen: "https://i.postimg.cc/ZnVvRt0K/IMG-20250831-WA0204.jpg"
+  },
 
 
 );
