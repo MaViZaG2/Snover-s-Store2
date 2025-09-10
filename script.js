@@ -46,18 +46,40 @@ productos.push(
   },
     {
     nombre: "Banda de naruto clasico",
-    categoria: "Accesorio",
+    categoria: "accesorio",
     precio: 25,
     descripcion: "Banda de genin de la aldea de la hoja del anime Naruto",
     imagen: "https://i.postimg.cc/ZnVvRt0K/IMG-20250831-WA0204.jpg"
   },
    {
     nombre: "Banda de akatsuki naruto clasico",
-    categoria: "Accesorio",
+    categoria: "accesorio",
     precio: 25,
     descripcion: "Banda de akatsuki de la aldea de la hoja del anime naruto",
     imagen: "https://i.postimg.cc/ZnVvRt0K/IMG-20250831-WA0204.jpg"
   },
+     {
+    nombre: "Booster Bundle de cartas de pokémon 151",
+    categoria: "accesorio",
+    precio: 25,
+    descripcion: "Booster Bundle de tarjetas Pokémon expansión 151 de gengar en japonés. Contiene 15 paquetes de 5 sobres cada uno",
+    imagen: "https://i.postimg.cc/k50j0RzL/booster-pack-15-sobres.jpg"
+  },
+     {
+    nombre: "Booster pack de cartas pokémon 151",
+    categoria: "accesorio",
+    precio: 25,
+    descripcion: "Booster pack de tarjetas Pokémon expansión 151 de gengar en japonés. Contiene 5 cartas cada sobre",
+    imagen: "https://i.postimg.cc/jjwg34gz/sobre-individual.jpg"
+  },
+     {
+    nombre: "Medallas pokémon región Kanto (con caja)",
+    categoria: "accesorio",
+    precio: 25,
+    descripcion: "Caja con 8 pins de las 8 medallas de gimnasio de pokémon de la región de Kanto",
+    imagen: "https://i.postimg.cc/vZS2vNzY/medallas-pokemon.jpg"
+  },
+
 
 
 );
